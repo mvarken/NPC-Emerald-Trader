@@ -5,4 +5,4 @@ In my script, I use emeralds to trade for random items.
 
 There are no commands in this script; it is an NPC assignment for Citizen NPC's with addon Denizen.
 
-<img src="https://raw.githubusercontent.com/mvarken/NPC-Emerald-Trader/main/Trader%20NPC.webp" width="250" height="250">
+<img src="https://github.com/mvarken/_NPC_Emerald-Trader/blob/main/NPC%20Trader.jpg" width="250" height="250">
